@@ -1,0 +1,20 @@
+[
+    {
+        "No": 1,
+        "name": "Network Security",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFiTfDjSE0yvOPWBOoczbsPfdtzTW3YJRZpQ&s",
+        "language": "Tamil,English,Telugu,,Kannada"
+    },
+    {
+        "No": 2,
+        "name": "Ethical Hacking",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlBd8vbR_KOsKDTtvxiMylgSS33Zy_qyRA9A&s",
+        "language": "Tamil,English,Hindi,Telugu"
+    },
+    {
+        "No": 3,
+        "name": "Cloud Security",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Kv2oCbUmo-wwfnKriinBvCQ_2bjx6Re74w&s",
+        "language": "English"
+    }
+]

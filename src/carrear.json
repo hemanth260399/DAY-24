@@ -1,0 +1,20 @@
+[
+    {
+        "No": 1,
+        "name": "Successful Career Development.",
+        "image": "https://img.freepik.com/premium-vector/career-development-vector-illustration-with-ladder-success-growing-revenue-improve-bar-graph-business-goal-flat-background-design_2175-20601.jpg",
+        "language": "English"
+    },
+    {
+        "No": 2,
+        "name": "Adapting Career Development.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXXbJokPyAyNrKN-F1bUm2ajRU3GS47KBMEg&s",
+        "language": "Tamil,English,Hindi"
+    },
+    {
+        "No": 3,
+        "name": "English for Career Development.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx7BLy7hphg97F0wgCz5UFjgQabn6-n48PLg&s",
+        "language": "Tamil,English,Telugu"
+    }
+]

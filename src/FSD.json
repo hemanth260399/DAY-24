@@ -1,0 +1,20 @@
+[
+    {
+        "No": 1,
+        "name": "Java Full Stack Development",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqTS6k1Ce37t9H3ogn6yqxVA4fpsjDv80KuA&s",
+        "language": "Tamil,English"
+    },
+    {
+        "No": 2,
+        "name": "Python Full Stack Development",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ_n9Sv-O6COvf9PFUjYcAyIdo7VpELAFCXQ&s",
+        "language": "Tamil,English ,Hindi"
+    },
+    {
+        "No": 3,
+        "name": "Javascript Full Stack Development",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzqNfZ1kxijUaiONEAoIjSm0nptzysQMtyng&s",
+        "language": "Tamil,English"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "No": 1,
+        "name": "Data Science Courses on Coursera",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYbD7B-bOn6_soRdjgFHT3PZui7FA8lS0_Gg&s",
+        "language": "Tamil,English,Telugu"
+    },
+    {
+        "No": 2,
+        "name": "Udemy Data Science Courses",
+        "image": "https://img.freepik.com/premium-vector/big-data-analytics-abstract-vector-background-3d-vector-sphere-data-stream-abstract-style_518816-124.jpg",
+        "language": "Tamil,English,Hindi,Telugu"
+    },
+    {
+        "No": 3,
+        "name": "Data Science Courses on Simplilearn",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMpOl6pnMBvNArvN0_yKPXx-PtCYYhTYYq7A&s",
+        "language": "Tamil,English"
+    }
+]
